@@ -1,6 +1,6 @@
 # Unity Procedural Mesh Bezier Curve Tutorial
 
-![](https://brainfoolong.github.io/unity-procedural-mesh-bezier-curve/screenshot-1.jpg)
+![Screenshot](https://brainfoolong.github.io/unity-procedural-mesh-bezier-curve/screenshot-1.jpg)
 
 The code is the result of this video tutorial series (german):
 Maybe it's already a bit improved ot the original code from the video.
