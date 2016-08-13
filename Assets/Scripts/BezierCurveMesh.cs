@@ -1,4 +1,12 @@
-﻿using UnityEngine;
+﻿/*
+Unity Procedural Mesh Bezier Curve Tutorial
+Created by BrainFooLong @ July 2016
+Youtube Series: https://www.youtube.com/playlist?list=PL8XNf8lax18m-RGjWivOpAqaFBqHDQ-X_
+Github Repository: https://github.com/brainfoolong/unity-procedural-mesh-bezier-curve
+License: MIT
+*/
+
+using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
